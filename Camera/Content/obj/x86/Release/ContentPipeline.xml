@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Dateien\FH\6. Semester\Bachelorarbeit\TerrainRendering\Camera\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Dateien\FH\6. Semester\Bachelorarbeit\TerrainRendering\Camera\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Dateien\FH\6. Semester\Bachelorarbeit\TerrainRendering\Camera\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Dateien\FH\6. Semester\Bachelorarbeit\TerrainRendering\Camera\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-10-12T13:06:11.296875+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
